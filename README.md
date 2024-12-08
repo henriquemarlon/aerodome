@@ -7,7 +7,7 @@
     <i>A native application for drone simulation, control, and real-time visualization</i>
 </div>
 <div align="center">
-<b>This provides an interface for controlling ArduCopter based systems in both simulation </br> and real-world environments</b>
+<b>This provides an interface for controlling ArduPilot based systems in both simulation </br> and real-world environments</b>
 </div>
 <br>
 <p align="center">
