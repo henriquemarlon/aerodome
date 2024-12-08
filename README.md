@@ -4,7 +4,7 @@
 </br>
 
 <div align="center">
-    <i>A native interface for drone simulation, control, and real-time visualization</i>
+    <i>A native application for drone simulation, control, and real-time visualization</i>
 </div>
 <div align="center">
 <b>This provides an interface for controlling ArduCopter based systems in both simulation </br> and real-world environments</b>
